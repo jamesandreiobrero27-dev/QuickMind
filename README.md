@@ -34,7 +34,7 @@ Run the game with:
             
             
           
-                game.py
+                pro.py
       Follow on-screen instructions:
 
 Enter your name when prompted.
